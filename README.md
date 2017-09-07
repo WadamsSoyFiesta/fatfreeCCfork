@@ -1,5 +1,5 @@
 # Will's Fat Free CRM  <a href="https://codeclimate.com/github/WadamsSoyFiesta/fatfreeCCfork/maintainability"><img src="https://api.codeclimate.com/v1/badges/a42bdd2e9e2f8d3ff345/maintainability" /></a>
-#TEST
+#removethistest
 [travis-img-url]: https://secure.travis-ci.org/fatfreecrm/fat_free_crm.svg?branch=master
 [travis-ci-url]: https://travis-ci.org/fatfreecrm/fat_free_crm
 [codeclimate-img-url]: https://codeclimate.com/github/fatfreecrm/fat_free_crm.svg
